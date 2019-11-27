@@ -1,0 +1,7 @@
+queue is fullcannot enqueue  H ,Queue overflow                                                                                                  
+A                                                                                                                                               
+B                                                                                                                                               
+B                                                                                                                                               
+G                                                                                                                                               
+0                                                                                                                                               
+queue is full1 
